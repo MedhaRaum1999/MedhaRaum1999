@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Front end development
 - 🌱 I’m currently learning ...Next.js
 - 💞️ I’m looking to collaborate on ...Junior Front developer or Intenship role
-- 📫 How to reach me ...mail(medhharaum99@gmail.com)
+- 📫 How to reach me ...mail(medharam1208@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...sleep well and code well
 
